@@ -1,0 +1,135 @@
+@media (max-width: 1030px) {
+  .menu a{
+
+    margin: 0;
+
+} 
+.enlaces a{
+  margin: 10px;
+}
+
+
+
+
+  } 
+
+
+  
+
+
+  @media (max-width: 800px) { 
+    .pr{
+      font-size: 18px;
+
+    }
+    .menu a{
+   
+      margin: 25px;
+  
+  }  
+  .sombra{
+    max-width: 200px;
+  
+  }
+  
+  
+  .brand{
+    display: flex;
+    justify-content: center;
+  }
+  
+  .skills-bar-container {
+    display: flex;
+      width: 90%;
+      max-width: 100px;
+    flex-flow: column wrap;
+      
+      list-style: none;
+    }
+    }
+
+  @media (max-width: 1300px) {
+ 
+   
+  .text{
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center; 
+ margin: 0px;
+  }  
+  .space{
+    margin: 50px; 
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center; 
+
+  }  
+
+
+    }
+
+
+
+
+
+  @media (min-width: 1445px) {
+    body{
+
+      background-size: cover;
+    } 
+    
+
+  }  
+  @media (max-width:1200px){
+
+    .perfil{
+      width: 400px;
+    }
+
+    
+  } 
+  @media (max-width:500px){
+
+
+    .perfil{
+      width: 320px;
+      margin-top: 130px;
+      padding: 0px
+      
+    }  
+    
+    .brand{
+      display: none;
+    }
+    .menu a{
+   
+      margin: 25px;
+  
+  }  
+  }
+  @-webkit-keyframes aparicion {
+    0% {
+      opacity: 0%;
+    }
+    100% {
+      opacity: 100%;
+    }
+  }
+  
+  @keyframes aparicion {
+    0% {
+      opacity: 0%;
+    }
+    100% {
+      opacity: 100%;
+    }
+  }
+
+
+
+
+
+
+
+
+ 
